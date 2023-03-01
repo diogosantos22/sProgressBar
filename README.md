@@ -1,15 +1,15 @@
 
-** Simple Progress Bar for FiveM **
+## Simple Progress Bar for FiveM 
 Just a simple, tiny and good looking FiveM progress bar. 
 
 
 
-**  🌟 Feature List **
+## 🌟 Feature List 
 - 📲 Optimized
 - 🚀 Standalone
 - ➡️ Resolution Friendly 
 
-** 👀 Preview **
+## 👀 Preview 
 
 ## 🤖 Code
 
