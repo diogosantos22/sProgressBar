@@ -10,6 +10,7 @@ Just a simple, tiny and good looking FiveM progress bar.
 - ➡️ Resolution Friendly 
 
 ## 👀 Preview 
+#### You can see a script using it here: https://youtu.be/scRX6lE8Y2M
 
 ## 🤖 Code
 
